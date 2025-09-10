@@ -53,7 +53,7 @@ Below we list individual research works on **LLM-based agents in medicine**, org
 
 ### 2025
 - **Wang et al. — MedAgent-Pro: Towards Evidence-based Multi-modal Medical Diagnosis via Reasoning Agentic Workflow**  
-  **Function:** [Clinical Decision Support]
-  **Tool-Usage:** [Multi-modal], [Tool-augmented] 
-  **Autonomy:** [Fully Autonomous] 
+  **Function:** [badge-cds]
+  **Tool-Usage:** [badge-mm], [badge-ta] 
+  **Autonomy:** [badge-auto] 
   📄 [Paper]([link](https://arxiv.org/pdf/2503.18968)) | 💻 Code: – [link](https://github.com/jinlab-imvr/MedAgent-Pro)
