@@ -33,5 +33,9 @@ Surveys and reviews on LLMs and agents in medicine.
 ## 🧠 Papers
 Below we list individual research works on **LLM-based agents in medicine**, organized with structured fields for consistency.
 
-### 📌 Entry Template
-When adding a new paper, please follow this format:
+### 2025
+- **Wang et al. — MedAgent-Pro: Towards Evidence-based Multi-modal Medical Diagnosis via Reasoning Agentic Workflow**  
+  **Function:** [Clinical Decision Support]
+  **Tool-Usage:** [Multi-modal], [Tool-augmented] 
+  **Autonomy:** [Fully Autonomous] 
+  📄 [Paper]([link](https://arxiv.org/pdf/2503.18968)) | 💻 Code: – [link](https://github.com/jinlab-imvr/MedAgent-Pro)
