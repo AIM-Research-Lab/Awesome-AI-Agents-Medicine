@@ -56,6 +56,8 @@ Reviews focusing specifically on agents, trustworthiness, and foundation models 
 ## 🧠 Agent Papers
 
 ### 2025
+- **MedEyes: Learning Dynamic Visual Focus for Medical Progressive Diagnosis** ![Clinical Decision Support][badge-cds] ![Multi-modal][badge-mm] ![Fully Autonomous][badge-auto]
+  [📄 Paper](https://arxiv.org/abs/2511.22018) [💻 Code](https://github.com/zhcz328/MedEyes)
 
 - **MedAgent-Pro: Towards Multi-modal Evidence-based Medical Diagnosis via Reasoning Agentic Workflow** ![Clinical Decision Support][badge-cds] ![Multi-modal][badge-mm] ![Fully Autonomous][badge-auto]  
   [📄 Paper](https://arxiv.org/abs/2503.18968) [💻 Code](https://github.com/jinlab-imvr/MedAgent-Pro)
